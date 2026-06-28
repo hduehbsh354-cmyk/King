@@ -28,8 +28,8 @@ app.config['SESSION_COOKIE_HTTPONLY'] = True
 app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
 
 # ============== بيانات المسؤول ==============
-ADMIN_USERNAME = "ZXCVBNM"
-ADMIN_PASSWORD_RAW = "ZXCVBNM"
+ADMIN_USERNAME = "8075573334"
+ADMIN_PASSWORD_RAW = "8075573334"
 
 # ============== إعدادات البوت والإشعارات ==============
 BOT_TOKEN = "8669754436:AAG-XGfy4I_-X5FKDMb5DMDzhnowT3-wnSE"
